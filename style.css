@@ -5,3 +5,12 @@
 .bg-color-2{
     background-color: #701e7d;
 }
+.font-c{
+    color: #ffd400;
+}
+#button:hover{
+    background-color: #ffd400;
+    color: #ffff;
+    cursor: pointer;
+
+}
